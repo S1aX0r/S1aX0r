@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm S1aX0r</h1>
-<h3 align="center">Penetration Tester, OSINT, OPSEC Enthusiast, Privacy Advocate, FOSS Contributor</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Penetration+Tester;OSINT;OPSEC+Enthusiast;Privacy+Advocate;FOSS+Contributor" alt="Typing SVG" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ax0r&label=Profile%20views&color=0e75b6&style=flat" alt="s1ax0r" /> </p>
 

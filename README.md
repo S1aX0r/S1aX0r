@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ax0r&label=Profile%20views&color=0e75b6&style=flat" alt="s1ax0r" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1ax0r" alt="s1ax0r" /></a> </p>
-
 - 🔭 I’m currently working on [Cloak & Dagger](https://github.com/S1aX0r/Cloak-Dagger)
 
 - 🌱 I’m currently learning **Python**, **Penetration Testing**

@@ -1,28 +1,162 @@
-<h1 align="center">Hello, I'm S1aX0r</h1>
-
+<!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Penetration+Tester;OSINT;OPSEC+Enthusiast;Privacy+Advocate;FOSS+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&duration=2500&pause=700&color=00FF9C&center=true&vCenter=true&width=800&lines=S1aX0r+%7C+RED+TEAM;OSINT+%7C+OPSEC;PRIVACY+%3E+CONVENIENCE;OFFENSIVE+SECURITY+OPERATOR" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s1ax0r&label=Profile%20views&color=0e75b6&style=flat" alt="s1ax0r" /> </p>
+---
 
-- 🔭 I’m currently working on [Cloak & Dagger](https://github.com/S1aX0r/Cloak-Dagger)
+### ~$ whoami ###
 
-- 🌱 I’m currently learning **Python**, **Penetration Testing**
+I'm **S1aX0r** — a Red Teamer focused on **Offensive Security, OSINT, OPSEC, Bug Hunting, & Offensive Tool Development**.
 
-- 👯 I’m looking to collaborate on Bug Hunting, Pentesting / Security Tool Development, Penetration Testing & OSINT
+I build tools, break systems *(ethically)*, and analyze digital footprints.
 
-- 🤝 I’m looking for help with [Basher](https://github.com/S1aX0r/Basher)
+~$ **Find weaknesses. Exploit intelligently. Stay invisible.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/S1aX0r](https://github.com/S1aX0r)
+---
 
-- 💬 Ask me about **Penetration Testing**, **OPSEC**, **Open Source Intelligence**, **Technology**, **Privacy**
+<details>
+  <summary> cat more_info.txt</summary>
 
-- ⚡ Fun fact **I love Cybersecurity and creating pentesting / bug hunting tools**
+* 🕶️ Alias: S1aX0r
+* 🔴 Role: Red Teamer / OSINT Investigator
+* 🛠️ Focus: Offensive Security & Privacy Engineering
+* 📚 Learning: Advanced exploitation & malware analysis
+* 🎯 Goal: Offensive Security Specialist
+* ⚡ Mindset: Adapt > Overcome > Disappear
 
-<h3 align="left">Connect with me: https://github.com/S1aX0r</h3>
-<p align="left">
+</details>
+
+---
+
+## ~$ current_mission.log
+
+* 🔍 Developing OSINT & anonymity workflows
+* 🛠️ Building **Cloak & Dagger**
+* 🧪 Researching evasion & stealth techniques
+* 📡 Mapping attack surfaces
+
+~$ ./status.sh
+
+[+] checking core status...
+<br>
+[+] loading modules...
+<br>
+[+] verifying stealth layer...
+<br>
+
+Status:   **ACTIVE**
+<br>
+Mode:     **STEALTH**
+<br>
+Progress: **EVOLVING** ████████░░ 84%
+<br>
+<br>
+[+] no threats detected
+<br>
+[+] system stable
+
+---
+
+## ~$ live_console.sh
+
+```bash
+> initializing interface...
+> connecting to node: 127.0.0.1
+> bypassing firewall... [OK]
+> injecting payload... [OK]
+> escalating privileges... [SUCCESS]
+> establishing persistence...
+> exfiltrating data ██████████ 100%
+> cleaning traces...
+> disconnecting...
+
+> access granted_
+```
+
+---
+
+## ~$ Knowledge & Skills
+
+### 🔴 offensive_security
+
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge\&logo=nmap\&logoColor=00FF9C)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge\&logo=metasploit\&logoColor=00FF9C)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=for-the-badge\&logo=burpsuite\&logoColor=00FF9C)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge\&logo=wireshark\&logoColor=00FF9C)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge\&logo=hackthebox\&logoColor=00FF9C)
+![John the Ripper](https://img.shields.io/badge/John_Ripper-000000?style=for-the-badge\&logoColor=00FF9C)
+
+### 🧠 systems
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF9C)
+![Kali](https://img.shields.io/badge/Kali-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF9C)
+![Qubes OS](https://img.shields.io/badge/QubesOS-000000?style=for-the-badge&logo=qubesos&logoColor=00FF9C)
+![Tails](https://img.shields.io/badge/Tails-000000?style=for-the-badge&logo=tails&logoColor=00FF9C)
+![Whonix](https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=torproject&logoColor=00FF9C)
+![Kicksecure](https://img.shields.io/badge/Kicksecure-000000?style=for-the-badge&logo=debian&logoColor=00FF9C)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00FF9C)
+
+### 🛠️ development
+
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF9C)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF9C)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF9C)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF9C)
+![PowerShell](https://img.shields.io/badge/PowerShell-000000?style=for-the-badge&logo=powershell&logoColor=00FF9C)
+
+---
+
+## ~$ github_stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=S1aX0r&theme=dark&background=000000&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C&hide_border=true">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## ~$ contact
+
+<div align="left" style="font-family: monospace;">
+
+<span style="color:#00FF9C;">┌──(</span><span style="color:#ffffff;">s1ax0r㉿github</span><span style="color:#00FF9C;">)-[~/access]</span><br>
+<span style="color:#00FF9C;">└─$</span> cat identity.log<br>
+
+<span style="color:#ffffff;">
+user: s1ax0r  
+<br>
+role: red_team_operator  
+<br>
+status: online  
+<br>
+</span>
+
+<br>
+<span style="color:#00FF9C;">┌──(</span><span style="color:#ffffff;">s1ax0r㉿github</span><span style="color:#00FF9C;">)-[~/access]</span><br>
+<span style="color:#00FF9C;">└─$</span> cat contact.txt<br>
+
+<span style="color:#ffffff;">
+<br>
+Github: https://github.com/S1aX0r  
+<br>
+Collaboration: Enabled  
+<br>
+Focus: OSINT | Pentesting | OPSEC  
+<br>
+</span>
+
+<br>
+</div>
+
+---
+
+## ~$ final_message
+
+<p align="center">
+  <i>"Stay anonymous. Stay dangerous."</i>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg">
+</p>

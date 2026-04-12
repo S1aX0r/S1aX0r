@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **Python**, **Penetration Testing**
 
-- 👯 I’m looking to collaborate on [Cloak & Dagger](https://github.com/S1aX0r/Cloak-Dagger) & [Off-Grid](https://github.com/S1aX0r/Off-Grid)
+- 👯 I’m looking to collaborate on Bug Hunting, Pentesting / Security Tool Development, Penetration Testing & OSINT
 
 - 🤝 I’m looking for help with [Basher](https://github.com/S1aX0r/Basher)
 
 - 👨‍💻 All of my projects are available at [https://github.com/S1aX0r](https://github.com/S1aX0r)
 
-- 💬 Ask me about **Penetration Testing**
+- 💬 Ask me about **Penetration Testing**, **OPSEC**, **Open Source Intelligence**, **Technology**, **Privacy**
 
-- ⚡ Fun fact **I love Cybersecurity**
+- ⚡ Fun fact **I love Cybersecurity and creating pentesting / bug hunting tools**
 
 <h3 align="left">Connect with me: https://github.com/S1aX0r</h3>
 <p align="left">

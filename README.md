@@ -11,17 +11,17 @@ I'm **S1aX0r** — a Red Teamer focused on **Offensive Security, OSINT, OPSEC, B
 
 I build tools, break systems *(ethically)*, and analyze digital footprints.
 
-~$ **Find weaknesses. Exploit intelligently. Stay invisible.**
+ **Find weaknesses. Exploit intelligently. Stay invisible.**
 
 ---
 
 <details>
-  <summary> cat more_info.txt</summary>
+  <summary> ~$ cat more_info.txt</summary>
 
 * 🕶️ Alias: S1aX0r
 * 🔴 Role: Red Teamer / OSINT Investigator
 * 🛠️ Focus: Offensive Security & Privacy Engineering
-* 📚 Learning: Advanced exploitation & malware analysis
+* 📚 Learning: Advanced Exploitation | Python | C++
 * 🎯 Goal: Offensive Security Specialist
 * ⚡ Mindset: Adapt > Overcome > Disappear
 

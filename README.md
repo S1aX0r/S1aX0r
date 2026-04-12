@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm S1aX0r</h1>
+<h1 align="center">Hello, I'm S1aX0r</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Penetration+Tester;OSINT;OPSEC+Enthusiast;Privacy+Advocate;FOSS+Contributor" alt="Typing SVG" />

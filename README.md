@@ -96,7 +96,7 @@ Progress: **EVOLVING** ████████░░ 84%
 ![Whonix](https://img.shields.io/badge/Whonix-000000?style=for-the-badge&logo=torproject&logoColor=00FF9C)
 ![Kicksecure](https://img.shields.io/badge/Kicksecure-000000?style=for-the-badge&logo=debian&logoColor=00FF9C)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=00FF9C)
-
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=00FF9C)
 ### 🛠️ development
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF9C)

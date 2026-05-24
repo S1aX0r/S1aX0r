@@ -36,44 +36,6 @@ I build tools, break systems *(ethically)*, and analyze digital footprints.
 * 🧪 Researching evasion & stealth techniques
 * 📡 Mapping attack surfaces
 
-~$ ./status.sh
-
-[+] checking core status...
-<br>
-[+] loading modules...
-<br>
-[+] verifying stealth layer...
-<br>
-
-Status:   **ACTIVE**
-<br>
-Mode:     **STEALTH**
-<br>
-Progress: **EVOLVING** ████████░░ 84%
-<br>
-<br>
-[+] no threats detected
-<br>
-[+] system stable
-
----
-
-## ~$ live_console.sh
-
-```bash
-> initializing interface...
-> connecting to node: 127.0.0.1
-> bypassing firewall... [OK]
-> injecting payload... [OK]
-> escalating privileges... [SUCCESS]
-> establishing persistence...
-> exfiltrating data ██████████ 100%
-> cleaning traces...
-> disconnecting...
-
-> access granted_
-```
-
 ---
 
 ## ~$ Knowledge & Skills

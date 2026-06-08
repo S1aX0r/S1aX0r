@@ -7,7 +7,7 @@
 
 ### ~$ whoami ###
 
-I'm **S1aX0r** — a Red Teamer focused on **Offensive Security, OSINT, OPSEC, Bug Hunting, & Offensive Tool Development**.
+I'm **S1aX0r**, a Red Teamer focused on **Offensive Security, OSINT, OPSEC, Bug Hunting, & Offensive Tool Development**.
 
 I build tools, break systems *(ethically)*, and analyze digital footprints.
 
